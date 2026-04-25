@@ -10,8 +10,7 @@
 </head>
 
 <body>
-<h1 id="none" align = "center">скачать последнюю версию моего мода:)</h1>
-<button onclick="window.location.href='https://disk.yandex.ru/d/IM7_baAl1K0bpQ';">скачать последнюю версию мода</button>
+<h1 id="none" align = "center">скачать последнюю версию моего мода можно ниже:)</h1>
 <p id="none" align = "left">новые Бирмы,криперы,обновленные зомби ломают блокии много другого новые текстуры new!</p>
 <img src="brone0129043.png" width=300 height=150>
 <img src="kriper29045.png" width=300 height=150>
